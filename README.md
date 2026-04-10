@@ -1,20 +1,20 @@
-# Hi, I'm Lionel
+# Lionel Fragnière
 
-GIS and remote sensing specialist working on humanitarian mine action, geospatial analytics, and operational tools.
+Information Management and GIS professional specialising in remote sensing, geospatial analysis, and operational data workflows for humanitarian and development contexts.
 
-## What I work on
-- GIS for mine action and humanitarian operations
-- Remote sensing and EO workflows
-- ArcGIS Enterprise / Python / GCP
-- Applied AI for field-oriented decision support
+My work focuses on turning spatial data into practical tools and evidence for decision-making, with particular interest in GIS operations, Earth observation, information systems, and applied analytics.
 
-## Featured projects
-- swissbike
-- bike-posture-webapp
-- SummariZ
+## Areas of focus
+- Geographic Information Systems (GIS)
+- Remote Sensing and Earth Observation
+- Information Management
+- Spatial Data Analysis
+- Humanitarian Operations Support
+- Applied AI for geospatial workflows
 
-## Tech
-Python · ArcGIS · GEE · BigQuery · GCP · Remote Sensing
+## Tools and technologies
+Python · ArcGIS · QGIS · Google Earth Engine · BigQuery · SQL · Google Cloud · Remote Sensing workflows
 
-## Contact
-LinkedIn / website / email
+## Links
+- LinkedIn: [linkedin.com/in/lionelfragniere](https://www.linkedin.com/in/lionelfragniere/)
+- Website: [fragniere.li](https://www.fragniere.li)
