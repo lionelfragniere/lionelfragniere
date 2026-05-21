@@ -301,38 +301,10 @@ Starter generator for building UNOPS-style web applications.<br />
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/registry-unops"><strong>registry-unops</strong></a><br />
-Registry of UNOPS app templates, tools, and reusable metadata.<br />
-<sub><code>Developer Tool</code> · <code>TypeScript</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/PSC-HQ"><strong>PSC-HQ</strong></a><br />
-Notebook-based analysis workspace for PSC information management support.<br />
-<sub><code>Information Management</code> · <code>Jupyter Notebook</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/Compass-Landing-Page"><strong>Compass-Landing-Page</strong></a><br />
-Landing page for presenting COMPASS capabilities and entry points.<br />
-<sub><code>Web App</code> · <code>TypeScript</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/MIT_SSD_EORE"><strong>MIT_SSD_EORE</strong></a><br />
-Remote sensing notebooks and analysis for applied earth-observation work.<br />
-<sub><code>Remote Sensing</code> · <code>Jupyter Notebook</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/Collaborative-Agreements"><strong>Collaborative-Agreements</strong></a><br />
-Documentation and reference material for collaborative agreement workflows.<br />
-<sub><code>Documentation</code> · <code>Docs</code></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/Global-IMS"><strong>Global-IMS</strong></a><br />
 Global information management resources for operational implementation support.<br />
 <sub><code>Information Management</code> · <code>Docs</code></sub>
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
