@@ -26,3 +26,205 @@ My work focuses on transforming spatial and operational data into practical tool
 ## Tools and technologies
 
 Python · ArcGIS · QGIS · Google Earth Engine · BigQuery · SQL · Google Cloud · Remote Sensing workflows
+
+## Projects
+
+Selected repositories I have built, maintained, or contributed to. Some links point to private repositories that are only accessible to authorized collaborators.
+
+### Personal repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/cursor-news"><strong>cursor-news</strong></a><br />
+News processing workspace for collecting, summarizing, and organizing updates.<br />
+<sub><code>Data Pipeline</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/OrbitCode"><strong>OrbitCode</strong></a><br />
+Web-based coding workspace for building and iterating on applications.<br />
+<sub><code>Developer Tool</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/TELLUS"><strong>TELLUS</strong></a><br />
+Python toolkit for geospatial analysis and earth-observation workflows.<br />
+<sub><code>Remote Sensing</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/autopilot"><strong>autopilot</strong></a><br />
+Automation-oriented application for guided workflows and AI-assisted operations.<br />
+<sub><code>Applied AI</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/landcover-classifier"><strong>landcover-classifier</strong></a><br />
+Machine learning workflow for classifying land cover from geospatial data.<br />
+<sub><code>Remote Sensing</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/gee-landcover"><strong>gee-landcover</strong></a><br />
+Google Earth Engine workflow for land-cover extraction and analysis.<br />
+<sub><code>Remote Sensing</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/unops-dashboard"><strong>unops-dashboard</strong></a><br />
+Task dashboard prototype for UNOPS operational tracking workflows.<br />
+<sub><code>Humanitarian Operations</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/UNrestricted"><strong>UNrestricted</strong></a><br />
+UN-focused web application for operational information workflows.<br />
+<sub><code>Humanitarian Operations</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/HomeTrainer"><strong>HomeTrainer</strong></a><br />
+Training companion web app for home workout planning and tracking.<br />
+<sub><code>Web App</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/plantia"><strong>plantia</strong></a><br />
+Plant-focused web application for tracking care, observations, and tasks.<br />
+<sub><code>Web App</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/SummariZ"><strong>SummariZ</strong></a><br />
+Summarization tool for turning source material into concise outputs.<br />
+<sub><code>Applied AI</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/swissbike"><strong>swissbike</strong></a><br />
+Python workflow supporting Swiss cycling data analysis and tooling.<br />
+<sub><code>Data Pipeline</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/bike-posture-webapp"><strong>bike-posture-webapp</strong></a><br />
+Bike-fit web app for analyzing cycling posture and setup.<br />
+<sub><code>Web App</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/ecriture"><strong>ecriture</strong></a><br />
+Writing-focused web application for drafting, structuring, and editing text.<br />
+<sub><code>Web App</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/Tsevarin"><strong>Tsevarin</strong></a><br />
+JavaScript web application with custom interface and workflow logic.<br />
+<sub><code>Web App</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/fragniere.li"><strong>fragniere.li</strong></a><br />
+Personal website presenting professional work, projects, and contact points.<br />
+<sub><code>Portfolio</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/SSD_EORE"><strong>SSD_EORE</strong></a><br />
+Earth observation and remote sensing notebooks for applied analysis.<br />
+<sub><code>Remote Sensing</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/IMS-Progress-Tracker"><strong>IMS-Progress-Tracker</strong></a><br />
+Information management tracker for monitoring progress across operational activities.<br />
+<sub><code>Information Management</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/SaltScanner"><strong>SaltScanner</strong></a><br />
+Android application for scanning and interpreting product salt information.<br />
+<sub><code>Mobile App</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/DocScout"><strong>DocScout</strong></a><br />
+Document discovery and summarization tool for exploring technical materials.<br />
+<sub><code>Applied AI</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lionelfragniere/nextjs-ai-chatbot"><strong>nextjs-ai-chatbot</strong></a><br />
+Next.js chatbot implementation for AI-assisted product experimentation.<br />
+<sub><code>Applied AI</code></sub>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+### Contributions in [PSC-IMAT](https://github.com/PSC-IMAT/)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/CARE_CONNECT"><strong>CARE_CONNECT</strong></a><br />
+CARE source-ingestion web application for humanitarian data workflows.<br />
+<sub><code>Data Pipeline</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/STRIDE"><strong>STRIDE</strong></a><br />
+Operational TypeScript application supporting structured field workflows.<br />
+<sub><code>Humanitarian Operations</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/ATLAS"><strong>ATLAS</strong></a><br />
+Operational platform work for organizing and exploring decision-support data.<br />
+<sub><code>Information Management</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/navidog"><strong>navidog</strong></a><br />
+JavaScript documentation and navigation tooling for project knowledge bases.<br />
+<sub><code>Developer Tool</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/ACRE"><strong>ACRE</strong></a><br />
+Python workflow supporting analytical processing for operational datasets.<br />
+<sub><code>Data Pipeline</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/ACLED_endpoint"><strong>ACLED_endpoint</strong></a><br />
+Endpoint work for integrating conflict-event data into operational workflows.<br />
+<sub><code>Humanitarian Operations</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/compass-vista"><strong>compass-vista</strong></a><br />
+Python-based data view supporting COMPASS analysis and situational insight.<br />
+<sub><code>Information Management</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/PSC-HQ"><strong>PSC-HQ</strong></a><br />
+Notebook-based analysis workspace for PSC information management support.<br />
+<sub><code>Information Management</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/MIT_SSD_EORE"><strong>MIT_SSD_EORE</strong></a><br />
+Remote sensing notebooks and analysis for applied earth-observation work.<br />
+<sub><code>Remote Sensing</code></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/PSC-IMAT/Collaborative-Agreements"><strong>Collaborative-Agreements</strong></a><br />
+Documentation and reference material for collaborative agreement workflows.<br />
+<sub><code>Documentation</code></sub>
+</td>
+</tr>
+</table>
