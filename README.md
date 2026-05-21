@@ -181,30 +181,6 @@ Operations center workspace for COMPASS coordination and monitoring.<br />
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/Project-Aegis-Survivor-Care"><strong>Project-Aegis-Survivor-Care</strong></a><br />
-Survivor-care web app supporting case-oriented humanitarian service workflows.<br />
-<sub><code>Humanitarian Operations</code> · <code>TypeScript</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/RC_afr-eu-funding-app-frontend"><strong>RC_afr-eu-funding-app-frontend</strong></a><br />
-Frontend for partnership opportunity discovery and funding workflow support.<br />
-<sub><code>Web App</code> · <code>TypeScript</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/afr-eu-funding-app-backend"><strong>afr-eu-funding-app-backend</strong></a><br />
-Backend services for partnership opportunity data and funding workflows.<br />
-<sub><code>Data Pipeline</code> · <code>Python</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/GPO-EIL"><strong>GPO-EIL</strong></a><br />
-GIS project support identifier for remote sensing opportunity screening.<br />
-<sub><code>GIS</code> · <code>TypeScript</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/compass-gdac"><strong>compass-gdac</strong></a><br />
 COMPASS pipeline integrating disaster alerts into operational analysis.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
@@ -222,93 +198,81 @@ Traceability workflow for COMPASS data processing and operational monitoring.<br
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/Contact-Mgmt-System_v2"><strong>Contact-Mgmt-System_v2</strong></a><br />
-Contract management web system for structured PSC operational workflows.<br />
-<sub><code>Web App</code> · <code>TypeScript</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/CARE_CONNECT"><strong>CARE_CONNECT</strong></a><br />
 CARE source-ingestion web application for humanitarian data workflows.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/compass-care-enrich"><strong>compass-care-enrich</strong></a><br />
 Enrichment pipeline for CARE datasets and COMPASS analytical products.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/compass-care-defend"><strong>compass-care-defend</strong></a><br />
 Validation workflow for CARE data quality and reliability checks.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/compass-care-byod"><strong>compass-care-byod</strong></a><br />
 BYOD acquisition web app for collecting and preparing CARE inputs.<br />
 <sub><code>Web App</code> · <code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/CARE_ACQUIRE"><strong>CARE_ACQUIRE</strong></a><br />
 Country-scale humanitarian data acquisition pipeline for CARE workflows.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/STRIDE"><strong>STRIDE</strong></a><br />
 Operational TypeScript application supporting structured field workflows.<br />
 <sub><code>Humanitarian Operations</code> · <code>TypeScript</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/ATLAS"><strong>ATLAS</strong></a><br />
 Platform for organizing and analyzing operational decision-support data.<br />
 <sub><code>Information Management</code> · <code>TypeScript</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/navidog"><strong>navidog</strong></a><br />
 Documentation and navigation tooling for project knowledge bases.<br />
 <sub><code>Developer Tool</code> · <code>JavaScript</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/ACRE"><strong>ACRE</strong></a><br />
 Python workflow supporting analytical processing for operational datasets.<br />
 <sub><code>Data Pipeline</code> · <code>Python</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/OverGravity"><strong>OverGravity</strong></a><br />
 TypeScript development environment for generating operational applications.<br />
 <sub><code>Developer Tool</code> · <code>TypeScript</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/ACLED_endpoint"><strong>ACLED_endpoint</strong></a><br />
 Endpoint work for integrating conflict-event data into operational workflows.<br />
 <sub><code>Humanitarian Operations</code> · <code>CSS</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/ORION"><strong>ORION</strong></a><br />
 Python analytics workspace for operational monitoring and decision support.<br />
 <sub><code>Information Management</code> · <code>Python</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/compass-ims"><strong>compass-ims</strong></a><br />
 COMPASS information management components and workflow interfaces.<br />
 <sub><code>Information Management</code> · <code>TypeScript</code></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/HR-Shortlist-AI-Agent"><strong>HR-Shortlist-AI-Agent</strong></a><br />
-AI-assisted shortlisting application for candidate screening workflows.<br />
-<sub><code>Applied AI</code> · <code>TypeScript</code></sub>
 </td>
 </tr>
 <tr>
@@ -354,29 +318,21 @@ Landing page for presenting COMPASS capabilities and entry points.<br />
 <sub><code>Web App</code> · <code>TypeScript</code></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/PSC-IMAT/unops-psc-Genai-sdg_mapping"><strong>unops-psc-Genai-sdg_mapping</strong></a><br />
-GenAI workflow for mapping activities to Sustainable Development Goals.<br />
-<sub><code>Applied AI</code> · <code>Python</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/MIT_SSD_EORE"><strong>MIT_SSD_EORE</strong></a><br />
 Remote sensing notebooks and analysis for applied earth-observation work.<br />
 <sub><code>Remote Sensing</code> · <code>Jupyter Notebook</code></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/Collaborative-Agreements"><strong>Collaborative-Agreements</strong></a><br />
 Documentation and reference material for collaborative agreement workflows.<br />
 <sub><code>Documentation</code> · <code>Docs</code></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/PSC-IMAT/Global-IMS"><strong>Global-IMS</strong></a><br />
 Global information management resources for operational implementation support.<br />
 <sub><code>Information Management</code> · <code>Docs</code></sub>
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
